@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and model artifacts
+models/
+notes.md
+
+# Local environment and credentials
+.env
+.env.*
+
+# Editor and assistant-local files
+.nvimlog
+CODEX.md
